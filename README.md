@@ -1,13 +1,34 @@
-# Right-to-Save
-Campaign to include "Right to access means to store value" as a fundamental human right
+# Right-to-Save as a "Fundamental Human Right"
 
-This is a campaign to include "Right to freely access means to store value" as a fundamental human right.
+Goal:
+We want to include "right to access means to store value" as part of the fundamental human rights list.
 
-In many countries around the world, citizens have restricted access to tools that serve as store of value such as:
+Problem:
+In many countries around the world, citizens have restricted access to tools that serve as a store of value, therefore limiting citizens savings capacity and perpetuating the poverty cycle.
 
-- Developed nations fiat currency like US dollars, Euro, etc. Mainly due to local currency exchange controls, developed countries banking restrictions (cost to open and maintain account, restrictions on opening bank account to tourists, etc), travel restrictions (visas, travel cost), or 
-- Non-inflationary assets like real estate, commodities, etc. Mainly due to minimum investment requirements to acquire these assets.
+Solution:
+Having "right to freely access means to store value" as part of the Human Rights lists would push countries around the world to ensure their citizens have real access to real savings tools.
 
-Limited access to "store of value" tools limits savings capacity, and therefore perpetuates poverty cycle. 
+Background:
+From my experience growing up in Venezuela, only the most priviledged segment of the population has access to effective store of value tools.
 
-Having "right to freely access means to store value" as part of the Human Rights lists would help society could use this leverage to push countries around the world to ensure their citizens have free access to real savings tools.
+- Local Banking access: being locally banked does not provide a feasable store of value solution given the negative real interest rate (high inflation rate > savings bank account interest rate).
+
+- Foreign fiat currencies (stable): Government imposed currency exchange controls prevents regular citizens from legally accessing foreign government fiat currencies (usd, euro, etc) as an alternative tool to store value. As a result, a small segment of the population resorts to black market to access foreign fiat currencies. 
+
+The least priviledged segment of this group can only access and hold cash, which is difficult to store safely and is highly vulrable to fraud (fake bills, counterparty failing to commit, etc). As any black market, lack of information and high risk prevents a big segment of population from participating.
+
+Only the most priviledged segment has access to foreign currency bank accounts due to additional costs and difficulties including:
+          Travel restrictions (travel visas),
+          Language restrictions,
+          Paying for flights,
+          Providing papework required to open a bank account as foreigner (e.g. student visa, address and phone # in foreign country...), 
+          Providing minimum capital required to open and maintain bank account, 
+          Staying long enough to receive debit card (no debit card international shipping), etc...
+
+- Non-inflationary assets such as real estate: only accesible to the most priviledged segment of the population mainly due to minimum investment requirements to acquire these assets.
+
+- Highly depreciable "assets": (cars, motorcycles, appliances, etc): highly depreciable items are used as last resource store of value tool by a segment of the population that is internationally unbanked and unwilling or uncapable of accessing black market for foreign fiat currency cash.
+
+
+
