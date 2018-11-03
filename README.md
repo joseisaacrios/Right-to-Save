@@ -28,7 +28,7 @@ Only the most priviledged segment has access to foreign currency bank accounts d
 
 - Non-inflationary assets such as real estate: only accesible to the most priviledged segment of the population mainly due to minimum investment requirements to acquire these assets.
 
-- Highly depreciable "assets": (cars, motorcycles, appliances, etc): highly depreciable items are used as last resource store of value tool by a segment of the population that is internationally unbanked and unwilling or uncapable of accessing black market for foreign fiat currency cash.
+- Highly depreciable "assets" (cars, motorcycles, appliances, etc): highly depreciable items are used as last resource store of value tool by a segment of the population that is internationally unbanked and unwilling or uncapable of accessing black market for foreign fiat currency cash.
 
 
 
