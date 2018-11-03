@@ -12,7 +12,7 @@ Having "right to freely access means to store value" as part of the Human Rights
 Background:
 From my experience growing up in Venezuela, only the most privileged segment of the population has access to effective store of value tools.
 
-- Local Banking access: being locally banked does not provide a feasible store of value solution given the negative real interest rate (high inflation rate > savings bank account interest rate).
+- Local banking access: being locally banked does not provide a feasible store of value solution given the negative real interest rate (high inflation rate > savings bank account interest rate).
 
 - Foreign fiat currencies (stable): Government imposed currency exchange controls prevent regular citizens from legally accessing foreign governments fiat currencies (usd, euro, etc) as an alternative tool to store value. As a result, a small segment of the population resorts to black market to access foreign fiat currencies. 
 
