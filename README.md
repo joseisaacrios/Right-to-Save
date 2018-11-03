@@ -14,7 +14,7 @@ From my experience growing up in Venezuela, only the most privileged segment of 
 
 - Local Banking access: being locally banked does not provide a feasible store of value solution given the negative real interest rate (high inflation rate > savings bank account interest rate).
 
-- Foreign fiat currencies (stable): Government imposed currency exchange controls prevents regular citizens from legally accessing foreign government fiat currencies (usd, euro, etc) as an alternative tool to store value. As a result, a small segment of the population resorts to black market to access foreign fiat currencies. 
+- Foreign fiat currencies (stable): Government imposed currency exchange controls prevent regular citizens from legally accessing foreign governments fiat currencies (usd, euro, etc) as an alternative tool to store value. As a result, a small segment of the population resorts to black market to access foreign fiat currencies. 
 
 The least privileged segment of this group can only access and hold cash, which is difficult to store safely and is highly vulnerable to fraud (fake bills, counterparty failing to commit, etc). As any black market, lack of information and high risk prevents a big segment of population from participating.
 
