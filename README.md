@@ -7,7 +7,7 @@ Problem:
 In many countries around the world, citizens have restricted access to tools that serve as a store of value, therefore limiting citizens savings capacity and perpetuating the poverty cycle.
 
 Solution:
-Having "right to freely access means to store value" as part of the Human Rights lists would push countries around the world to ensure their citizens have real access to real savings tools.
+Having "right to freely access means to store value" as part of the Human Rights lists would push countries around the world to ensure their citizens have access to real savings tools.
 
 Background:
 From my experience growing up in Venezuela, only the most privileged segment of the population has access to effective store of value tools.
